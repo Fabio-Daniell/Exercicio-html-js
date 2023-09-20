@@ -67,6 +67,7 @@ button:hover{
     border: none;
     padding: 10px;
     border-radius: 10px;
-    background-color: #49708a;
+    background-color: #3caa54;
+    color: #fff;
     display: none;
 }
