@@ -4,7 +4,7 @@ const valorB = document.getElementById('valor-B');
 let formEValido = false; 
 
 function validaValor(valorx,valory){
-    var Valida = valorx < valory;
+    var Valida = parseInt(valorx) < parseInt(valory);
     return Valida;
 }
 
